@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xac44f968bd17662a51cfa11cd9d53ff9e688c3da",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xac44f968bd17662a51cfa11cd9d53ff9e688c3da",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "coolgirl-banr1wtjwi",
+  "SYMBOL": "CG",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 2000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/coolgirl-banr1wtjwi",
+  "SHOW_BACKGROUND": true
+}
